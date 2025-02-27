@@ -9,7 +9,7 @@ This project made in groups of 2 was realized during my first year of university
 # Members who contributed to the project
 
 Raphael LEONARDI
-Baptiste PRAS
+[Baptiste PRAS](https://github.com/baptistepras)
 
 # How to use it ?
 
